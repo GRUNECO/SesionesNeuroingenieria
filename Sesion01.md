@@ -2,6 +2,8 @@
 
 Fecha: 05 agosto de 2022 
 
+*Encargado*: *Keveen Rodríguez*
+
 ## Guía de convenciones en Python: PEP8 
 
 Guía de estilo que facilita la lectura del código y la consistencia entre programas de distintos.
