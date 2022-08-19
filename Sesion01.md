@@ -40,9 +40,7 @@ El uso de líneas en blanco mejora notablemente la legibilidad, pero no hay que 
 * Tamaño de cada línea **79 caracteres**
 * Tamaño del comentatio **72 caracteres**
 
-<center>
 ![image](https://user-images.githubusercontent.com/64289108/185697544-4189ebf5-72c9-4c56-b46f-6a71decee4ca.png)
-</center>
 
 **Asignación**
 ![image](https://user-images.githubusercontent.com/64289108/185697672-3e87471b-67ab-4016-b0e8-419984d66160.png)
