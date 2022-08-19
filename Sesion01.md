@@ -2,7 +2,7 @@
 
 Fecha: 05 agosto de 2022 
 
-##Guía de convenciones en Python: PEP8 
+## Guía de convenciones en Python: PEP8 
 
 ![image](https://user-images.githubusercontent.com/64289108/185692095-88ecc2eb-132c-49b4-8025-61a56309c622.png)
 
