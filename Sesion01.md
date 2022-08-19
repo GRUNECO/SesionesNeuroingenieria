@@ -43,18 +43,23 @@ El uso de líneas en blanco mejora notablemente la legibilidad, pero no hay que 
 ![image](https://user-images.githubusercontent.com/64289108/185697544-4189ebf5-72c9-4c56-b46f-6a71decee4ca.png)
 
 **Asignación**
+
 ![image](https://user-images.githubusercontent.com/64289108/185697672-3e87471b-67ab-4016-b0e8-419984d66160.png)
 
 **Relacional**
+
 ![image](https://user-images.githubusercontent.com/64289108/185697698-95ea81a7-36ce-48b2-9562-199f8c71d181.png)
 
 **Paréntesis y corchetes**
+
 ![image](https://user-images.githubusercontent.com/64289108/185692095-88ecc2eb-132c-49b4-8025-61a56309c622.png)
 
 **Argumentos por efecto**
+
 ![image](https://user-images.githubusercontent.com/64289108/185698226-3c02aa82-7e87-4bc0-b662-575f0f5bd0a5.png)
 
 **Agrupar por orden de mayor prioridad**
+
 ![image](https://user-images.githubusercontent.com/64289108/185698538-da73fd33-a0b1-4548-9c65-9ff1d76f0c46.png)
 
 ## Identación
@@ -68,5 +73,6 @@ El uso de líneas en blanco mejora notablemente la legibilidad, pero no hay que 
 
 
 ## Bibliografía de interés 
+
 https://ellibrodepython.com/python-pep8#:~:text=La%20PEP8%20es%20una%20gu%C3%ADa,que%20una%20l%C3%ADnea%20debe%20tener
 
